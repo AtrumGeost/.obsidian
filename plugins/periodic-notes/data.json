@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "Periodic Notes",
+    "enabled": true,
+    "template": "Assets/Templates/Daily Note.md"
+  },
+  "weekly": {
+    "format": "gggg-[W]WW",
+    "template": "Assets/Templates/Weekly Recap.md",
+    "folder": "Periodic Notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Assets/Templates/Monthly Recap.md",
+    "folder": "Periodic Notes",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "Assets/Templates/Quarterly Recap.md",
+    "folder": "Periodic Notes",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": "Periodic Notes",
+    "enabled": true
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "9c3898a18d08dca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ad8562e41d925d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prompts.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prompts.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Idea Emergence.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":75},\"to\":{\"line\":6,\"ch\":75}}}"
+            },
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PKM.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":11},\"to\":{\"line\":4,\"ch\":11}}}"
+            },
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Prompts.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df4baf8e204fb303",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b205035d59ccb28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f49f828f4e6145b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7bffc52c8c92e5b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "bbc309d485d8e11a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e7523de6c5d7886",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92210f4fa7bd61a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb61d914e7eda18e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prompts.md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "26452338e6164c40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "946827d48e193cb5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Prompts.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.5,
+                  "nodeSizeMultiplier": 0.880769230769231,
+                  "lineSizeMultiplier": 1.48737980769231,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.43847796476662887,
+                  "close": true
+                }
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0aba69657c1e1cdc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "25cb413e062a460e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1f698b2f9e777b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ef5430df8bafbcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prompts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "583dddc11355c9e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prompts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "active": "90ad8562e41d925d",
+  "lastOpenFiles": [
+    "Prompts.md",
+    "Idea Emergence.md",
+    "PKM.md",
+    "LYT-PKM Questions.md",
+    "People/Nick Milo.md",
+    "Collector's Fallacy.md",
+    "T-Hunt.md",
+    "Manta.md",
+    "Periodic Notes/2022-06-15.md",
+    "Just JavaScript.md"
+  ]
+}
