@@ -6,17 +6,31 @@
       {
         "id": "90ad8562e41d925d",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prompts.md",
+            "file": "Periodic Notes/2022-Q2.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Periodic Notes/2022-Q2.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "90ad8562e41d925d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Periodic Notes/2022-07-01.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "90ad8562e41d925d",
               "group": null,
@@ -124,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompts.md"
+                "file": "Periodic Notes/2022-Q2.md"
               }
             },
             "pane-relief:history-v1": {
@@ -153,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Prompts.md",
+                "file": "Periodic Notes/2022-Q2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompts.md",
+                "file": "Periodic Notes/2022-Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompts.md",
+                "file": "Periodic Notes/2022-Q2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,6 +277,8 @@
   },
   "active": "90ad8562e41d925d",
   "lastOpenFiles": [
+    "Periodic Notes/2022-Q2.md",
+    "Periodic Notes/2022-07-01.md",
     "Prompts.md",
     "Idea Emergence.md",
     "PKM.md",
@@ -270,8 +286,6 @@
     "People/Nick Milo.md",
     "Collector's Fallacy.md",
     "T-Hunt.md",
-    "Manta.md",
-    "Periodic Notes/2022-06-15.md",
-    "Just JavaScript.md"
+    "Manta.md"
   ]
 }
