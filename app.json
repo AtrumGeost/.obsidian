@@ -7,5 +7,5 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Assets/Media",
   "promptDelete": false,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "byModifiedTime"
 }
