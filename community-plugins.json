@@ -1,21 +1,21 @@
 [
   "table-editor-obsidian",
   "calendar",
+  "open-note-to-window-title",
   "dataview",
   "obsidian-excalidraw-plugin",
+  "obsidian-minimal-settings",
   "note-refactor-obsidian",
   "pane-relief",
   "url-into-selection",
   "periodic-notes",
   "prompt",
-  "sliding-panes-obsidian",
+  "obsidian-sortable",
+  "obsidian-style-settings",
   "obsidian-system-dark-mode",
   "tag-wrangler",
   "obsidian-text-format",
-  "workspaces-plus",
   "obsidian-wikipedia",
-  "open-note-to-window-title",
-  "obsidian-style-settings",
-  "obsidian-minimal-settings",
-  "obsidian-sortable"
+  "workspaces-plus",
+  "sliding-panes-obsidian"
 ]
