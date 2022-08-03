@@ -29,5 +29,7 @@
   "minimal-style@@col-alt": false,
   "minimal-style@@table-tabular": false,
   "minimal-style@@table-numbers": false,
-  "minimal-style@@row-hover": false
+  "minimal-style@@row-hover": false,
+  "minimal-style@@ax1@@light": "#6A9AB4",
+  "minimal-style@@tx1@@light": "#252B32"
 }
