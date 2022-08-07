@@ -4,6 +4,7 @@
   "cssTheme": "Minimal",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "tables"
+    "tables",
+    "hide-left-sidebar-icons"
   ]
 }

@@ -1,0 +1,5 @@
+/* Hide icons on the left sidebar */
+.side-dock-actions{
+    visibility: hidden;
+    }
+    
