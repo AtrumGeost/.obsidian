@@ -2,9 +2,10 @@
   "baseFontSize": 17,
   "translucency": false,
   "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "tables",
     "hide-left-sidebar-icons"
-  ]
+  ],
+  "accentColor": ""
 }
