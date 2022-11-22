@@ -2,7 +2,7 @@
   "baseFontSize": 17,
   "translucency": false,
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "tables",
     "hide-left-sidebar-icons"
